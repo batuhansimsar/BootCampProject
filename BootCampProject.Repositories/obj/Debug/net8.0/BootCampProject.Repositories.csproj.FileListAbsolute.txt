@@ -1,0 +1,17 @@
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Repositories.deps.json
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Repositories.dll
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Repositories.pdb
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Core.dll
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Entities.dll
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Core.pdb
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\bin\Debug\net8.0\BootCampProject.Entities.pdb
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCamp.A448C6FE.Up2Date
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.dll
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\refint\BootCampProject.Repositories.dll
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\BootCampProject.Repositories.pdb
+C:\Users\batuhan\Desktop\BootCampProject1\BootCampProject.Repositories\obj\Debug\net8.0\ref\BootCampProject.Repositories.dll
