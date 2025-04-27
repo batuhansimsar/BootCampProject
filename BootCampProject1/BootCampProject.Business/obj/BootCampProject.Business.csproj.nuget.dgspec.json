@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Business\\BootCampProject.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Business\\BootCampProject.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Business\\BootCampProject.Business.csproj",
+        "projectName": "BootCampProject.Business",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Business\\BootCampProject.Business.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj"
+              },
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj"
+              },
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj",
+        "projectName": "BootCampProject.Core",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj",
+        "projectName": "BootCampProject.Entities",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj",
+        "projectName": "BootCampProject.Repositories",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Core\\BootCampProject.Core.csproj"
+              },
+              "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\BootCampProject1\\BootCampProject.Entities\\BootCampProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
