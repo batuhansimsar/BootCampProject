@@ -1,2 +1,0 @@
-# BootCampProject 
-# Huawei 
